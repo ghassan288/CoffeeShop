@@ -101,7 +101,7 @@ namespace Coffee_Shop
                 }
                 catch (Exception ex)
                 {
-                    MessageBox.Show("خطأ : " + ex.Message);
+                    MessageBox.Show("خط : " + ex.Message);
                 }
             }
         }
